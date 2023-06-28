@@ -64,6 +64,20 @@ To use the Work Day Scheduler application, follow these steps:
 - jQuery
 - Day.js
 
+## Submission Details
+
+As part of my submission, I have completed the following:
+
+1. **Deployed Application:** the Third-party API can be accessed at 
+
+2. **GitHub Repository:** The codebase for the Third-party API is available in the following GitHub repository: https://github.com/shaunxwong/Third-Party-API.git
+
+Thank you for reviewing my submission. I look forward to your feedback and suggestions.
+
+Best regards,
+
+Shaun Wong
+
 
 
 
