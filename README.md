@@ -64,12 +64,6 @@ To use the Work Day Scheduler application, follow these steps:
 - jQuery
 - Day.js
 
-## Credits
-
-The project uses the following third-party libraries:
-
-- [Day.js](https://day.js.org/en/)
-
 
 
 
