@@ -68,7 +68,7 @@ To use the Work Day Scheduler application, follow these steps:
 
 As part of my submission, I have completed the following:
 
-1. **Deployed Application:** the Third-party API can be accessed at 
+1. **Deployed Application:** the Third-party API can be accessed at https://shaunxwong.github.io/Third-Party-API/
 
 2. **GitHub Repository:** The codebase for the Third-party API is available in the following GitHub repository: https://github.com/shaunxwong/Third-Party-API.git
 
